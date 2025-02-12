@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - ![01DEF43E](https://github.com/user-attachments/assets/bb3da2ae-3611-44f1-b8f0-6c039b845fd5) I’m currently working on embedded hardware development
-- 🌱 I’m currently learning W5500、STC/STM32
+- 🌱 learning W5500、STC/STM32
 - ⚡ My Blog: <a href="https://blog.csdn.net/qwert_qqq">qwert_qqq</a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dianne722)](https://github.com/anuraghazra/github-readme-stats)
